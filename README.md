@@ -11,3 +11,6 @@ Task 3: Create random testing and training datasets using the caret package in R
 Task 4: Use R to synthetically balance the training dataset using three techniques from the [smotefamily package.](https://www.rdocumentation.org/packages/smotefamily/versions/1.3.1/topics/SMOTE) <br />
 Task 5: Train three classification algorithms (decision tree, naïve Bayes, and linear discriminant analysis) using the natively imbalanced dataset, and generate the predictions for the test dataset. <br />
 Task 6: Use R to visually compare the models using the recall, precision, and F measure classification accuracy metrics. <br />
+
+*** 
+Note: Since this is a coursera project, making the code or other material publicly available violates Coursera's Honor Code. But, I am happy to discuss the techniques and/or languages that've been utilized. 
